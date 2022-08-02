@@ -24,7 +24,10 @@
     --fs-p : 0.9rem;
 }
 
-body{background-color: var(--clr-light-grayish-blue);}
+body{
+    background-color: var(--clr-light-grayish-blue);
+    margin: 15% auto;
+}
 
 img {
     display: block;
